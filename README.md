@@ -1,16 +1,16 @@
 React Vite App with JavaScript
 This is a React Vite application built using JavaScript. Vite is a build tool that focuses on speed and fast development workflows. It is designed to be lightweight and quick to start up, making it a great choice for modern web development.
 
-Getting Started
+## Getting Started
 Prerequisites
 Before getting started with this project, you will need to have Node.js installed on your machine. You can download it from the official Node.js website: https://nodejs.org/en/
 
-Installation
+## Installation
 To install the dependencies for this project, you can run the following command in your terminal:
 
 bash
 Copy code
-npm install
+### `npm install`
 Running the Application
 To start the development server, run the following command in your terminal:
 
