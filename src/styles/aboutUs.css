@@ -1,0 +1,33 @@
+h2{
+    color: black;
+    font-size: 3rem;
+  }
+.heading{
+    text-align: center;
+}
+.heading img{
+    border-radius: 2rem;
+    height: 60vh;
+}
+.about-data{
+    text-align: center;
+}
+.about-data p{
+ margin: 2rem 10rem;
+font-size: 1.5rem;
+}
+.show-data{
+    text-align: center;
+    height: 70vh;
+}
+.show-data li{
+    row-gap: 5rem;
+    display:flex;
+    justify-content:center;
+    font-size: 1.5rem;
+    margin-bottom: 4rem;
+}
+.show-data img{
+    width: 18vw;
+    height: 30vh;
+}
