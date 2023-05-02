@@ -8,21 +8,17 @@ Before getting started with this project, you will need to have Node.js installe
 ## Installation
 To install the dependencies for this project, you can run the following command in your terminal:
 
-bash
-Copy code
+
 ### `npm install`
 Running the Application
 To start the development server, run the following command in your terminal:
 
-bash
-Copy code
-npm run dev
+
+### `npm run dev`
 This will start the development server at http://localhost:3000.
 
-Building the Application
+##Building the Application
 To build the application for production, run the following command in your terminal:
 
-bash
-Copy code
-npm run build
+### `npm run build`
 This will create a production build of your application in the dist directory.
