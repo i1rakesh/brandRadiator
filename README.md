@@ -8,6 +8,7 @@ This is a React news website project that displays news articles from various so
 # • Contact Us
 # • Admin 
 
+# Link: https://harmonious-tartufo-3e0c2e.netlify.app/
 ### React Vite App with JavaScript
 This is a React Vite application built using JavaScript. Vite is a build tool that focuses on speed and fast development workflows. It is designed to be lightweight and quick to start up, making it a great choice for modern web development.
 
