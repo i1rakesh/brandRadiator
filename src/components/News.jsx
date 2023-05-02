@@ -26,6 +26,7 @@ const NewsData = () => {
 
   return (
     <div className="newsWrapper">
+      <h1>Latest News</h1>
       {data.map((value) => {
         return (
           <div className="card">
